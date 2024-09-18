@@ -8,6 +8,7 @@ Feel free to explore, clone, and use the projects in your own learning or develo
 - [Movie Recommendation](https://github.com/AnilaPeter/Movie-Recommendation-Project)
 - [Sepsis and Septic Shock Prediction](https://github.com/AnilaPeter/Sepsis-and-Septic-shock-Prediction-model)
 - [House Price Prediction](https://github.com/AnilaPeter/Bengaluru-house-price-prediction)
+- [Simple Linear Regression: Salary_vs_Experience](https://github.com/AnilaPeter/Simple_Linear_Regression_Salary_vs_Experience)
 ## Web Scraping
 
 - [Web Scraping Project (COVID-19 Data Collection):](https://github.com/AnilaPeter/Web-scraping-Project)
