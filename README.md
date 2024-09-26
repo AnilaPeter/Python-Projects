@@ -9,6 +9,7 @@ Feel free to explore, clone, and use the projects in your own learning or develo
 - [Sepsis and Septic Shock Prediction](https://github.com/AnilaPeter/Sepsis-and-Septic-shock-Prediction-model)
 - [House Price Prediction](https://github.com/AnilaPeter/Bengaluru-house-price-prediction)
 - [Simple Linear Regression: Salary_vs_Experience](https://github.com/AnilaPeter/Simple_Linear_Regression_Salary_vs_Experience)
+- [Student Performance Prediction](https://github.com/AnilaPeter/Student-Performance_Prediction_Model)
 ## Web Scraping
 
 - [Web Scraping Project (COVID-19 Data Collection):](https://github.com/AnilaPeter/Web-scraping-Project)
